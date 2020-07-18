@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(103, 153, 219);
+        }
+        
+    header{
+        width: 100%;
+        height: 50%;
+        }
+    section {
+        display: flex;
+        justify-content: space-around;
+        margin: auto;
+    }
+    article {
+        background-color: rgb(103, 153, 219);
+        display: flex;
+        flex-direction: column;
+        
+
+        }
+        
+        p {
+           font-family: monospace;
+           font-size: small;
+           font-style: bold;
+            }
+           
+#spaceimg {
+    display:flex;
+    width: 80%;
+    height: auto;
+    margin: auto; 
+    }
+#messageBox {
+    padding: 30pt;
+}
